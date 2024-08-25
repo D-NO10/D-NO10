@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D-NO10
-- 🌱 I’m currently studying Database managment and math structure
+- 🌱 I’m currently studying Database managment and math structures
 - ⚡ Fun fact: I'm a big one piece fan.
 
 <!---

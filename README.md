@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @D-NO10
-- 🌱 I’m currently studying Database managment and math structures
-- ⚡ Fun fact: I'm a big one piece fan.
+- 👋 Hi, I’m Dean
 
 <!---
 D-NO10/D-NO10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
